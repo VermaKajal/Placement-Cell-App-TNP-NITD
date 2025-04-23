@@ -1,55 +1,77 @@
-<<<<<<< HEAD
-# tnpnitd
+# Placement-Cell-App
 
-A new Flutter project.
+## 📌 Introduction
 
-## Getting Started
+**TNP NITD** is an application designed to streamline the job placement process for students at the National Institute of Technology Delhi. The app caters to the needs of both students and administrators by providing separate modules with tailored functionalities. The goal is to simplify processes like job applications, announcements, and feedback, while ensuring efficient communication between stakeholders.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
+
+### 👨‍🎓 Student Module
+- 📢 **Announcements:** Real-time placement-related updates.
+- 🔍 **Job Search:** Search and apply for job opportunities.
+- 📄 **CV Editing:** Create and edit CVs within the app.
+- 📚 **Study Materials:** Access guides and practice resources.
+
+### 🛠 Administrator Module
+- 📢 **Manage Announcements:** Post/update placement-related news.
+- 📋 **Vacancy Management:** Add or modify job vacancies.
+- 🗣 **Feedback Collection:** Gather feedback from students.
+- 📤 **Study Material Upload:** Upload resources for students.
+
+---
+
+## 💻 Technical Details
+
+### 📱 Platform
+- Developed using **Android Studio**.
+- Supports both **Android** and **iOS** platforms.
+- Uses **Firebase Authentication** for user sign-up/login.
+
+### 📁 Folder Structure
+- Project Root: `C:\Users\HP\AndroidStudioProjects\tnpnitd`
+- Organized into folders for UI, services, and utilities.
+
+### 🔗 Firebase Integration
+- **Authentication** for secure login/signup.
+- **Realtime Database** to dynamically display content.
+
+---
+
+## 🖼️ App Screenshots
+
+### 🚀 Flash Screen
+![Flash Screen](screenshots/flash_screen.png.jpg)
+
+### 🏠 Home Page
+![Home Page](screenshots/homepage.png.jpg)
+
+### 🔐 Login Page
+![Login Page](screenshots/login_page.png.jpg)
+
+### 🔑 Login with Google
+![Login with Google](screenshots/loginwithgoogle.png.jpg)
+
+### 📤 Logout
+![Logout](screenshots/logout.png.jpg)
+
+### 🧭 Main Page
+![Main Page](screenshots/mainpage.png.jpg)
+
+### 👤 Profile Page
+![Profile Page](screenshots/profilepage.png.jpg)
+
+---
+
+## 📚 Getting Started
+
+If you're new to Flutter development, check out:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter Documentation](https://docs.flutter.dev/)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Placement-Cell-App
-Introduction
+---
 
-TNP NITD is an application designed to streamline the job placement process for students at the National Institute of Technology Delhi. The app caters to the needs of both students and administrators by providing separate modules with tailored functionalities. The goal is to simplify processes like job applications, announcements, and feedback, while ensuring efficient communication between stakeholders.
-
-Features
-
-1. Student Module
-
-Announcements: Students can view placement-related announcements in real-time.
-Job Search: Students can search and apply for available job opportunities.
-CV Editing: A feature that allows students to create and edit their CVs directly within the app.
-Study Materials: Students can access resources like interview preparation guides and practice tests.
-
-2. Administrator Module
-
-Manage Announcements: Administrators can post and update placement-related announcements.
-Vacancy Management: Administrators can add or modify job vacancies and track applications.
-Feedback Collection: Collect feedback from students to improve placement processes.
-Study Material Upload: Administrators can upload resources and materials for students.
-
-Technical Details
-
-1. Platform
-Developed using Android Studio, supporting both Android and iOS platforms.
-Firebase Authentication is used for user sign-up and login.
-
-2. Folder Structure
-Project Root: C:\Users\HP\AndroidStudioProjects\tnpnitd
-Includes folders for all major components such as UI, backend services, and utilities.
-
-3. Firebase Integration
-Authentication: For user registration and login.
-Real-time Database: To dynamically fetch and display announcements and job-related information.
-
-
->>>>>>> 213850af610c357116470670a3af972f131b9006
+> Made with ❤️ by an amazing team — **Anushka, Sonali, Mayank, and Kajal**
